@@ -14,7 +14,7 @@
 		"workspaceContains:**/mypy.ini"
 	],
     "author": "William Wilkins",
-    "publisher": "william-wilkins",
+    "publisher": "liamrwilkins",
     "repository": {
         "type": "git",
         "url": "https://github.com/liamrwilkins/mypy-ini-intellisense"
